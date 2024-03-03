@@ -1,0 +1,6 @@
+admin;password
+qusaymmu;bdc123
+aliuk;ali123
+bdcshop;bdc123
+james;james123
+alex14;alex123

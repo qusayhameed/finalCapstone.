@@ -1,0 +1,37 @@
+Number of users: 5
+Number of tasks: 10
+
+User: bdcshop
+Total tasks assigned: 3
+Percentage of total tasks: 30.00%
+Percentage of completed tasks: 66.67%
+Percentage of incomplete tasks: 33.33%
+Percentage of overdue tasks: 0.00%
+
+User: qusaymmu
+Total tasks assigned: 3
+Percentage of total tasks: 30.00%
+Percentage of completed tasks: 66.67%
+Percentage of incomplete tasks: 33.33%
+Percentage of overdue tasks: 0.00%
+
+User: aliuk
+Total tasks assigned: 1
+Percentage of total tasks: 10.00%
+Percentage of completed tasks: 100.00%
+Percentage of incomplete tasks: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: alex14
+Total tasks assigned: 1
+Percentage of total tasks: 10.00%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 0.00%
+
+User: james
+Total tasks assigned: 2
+Percentage of total tasks: 20.00%
+Percentage of completed tasks: 50.00%
+Percentage of incomplete tasks: 50.00%
+Percentage of overdue tasks: 0.00%
