@@ -1,8 +1,8 @@
 # Task Manager
 
 ## Description
-TaTask Manager is a Python-based command-line application designed for managing tasks and users. 
-This capstone project enhances the functionality of the existing `task_manager.py` file, providing features such as user registration, task assignment, task viewing, and report generation.
+This project, Task Manager, is a command-line-based task management application developed in Python. The application allows administrators and limitted options, to register new users, add tasks, view all tasks, and view tasks assigned to a specific user. The project focuses on code refactoring using the principle of abstraction and introduces additional features like task editing, marking tasks as complete, and generating reports.
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,23 +11,28 @@ This capstone project enhances the functionality of the existing `task_manager.p
 - [Credits](#credits)
 
 ## Installation
+To run the Task Manager project locally, follow these steps:
+
 1. Clone the repository to your local machine.
-   ```bash
+Example:
+-   ```bash
    git clone [https://github.com/qusayhameed/finalCapstone]
-Navigate to the project directory.
+      bash
+   cd task-manager (Find the full directory in your PC)
 
-bash
-Copy code
-cd task-manager (Find the full directory in your PC)
-Run the application.
-bash
-
-python task_manager.py
+2. Ensure you have Python installed on your system.
+3. Open the entire project folder in VS Code or any preferred Python IDE.
+4. Run the `task_manager.py` file.
 
 Usage:
+After running the application, follow the on-screen instructions to navigate through the menu and perform various tasks.
+If you are an admin user, you will have additional options such as generating reports 
+and displaying statistics. For non-admin users, certain admin-only functionalities will not be available.
+
+Part of the functionalies in the code:
 Register a new user (r) or add a new task (a) from the main menu.
 View all tasks (va) or view tasks assigned to the current user (vm).
-Generate reports (gr) to get insights into task and user statistics.
+Generate reports (gr) to get insights into task and (ds) to show users and tasks statistics.
 
 Registration (r):
 To register a new user, select 'r' from the main menu.
@@ -62,7 +67,9 @@ User-specific information:
 Total tasks assigned.
 Percentages of total, completed, incomplete, and overdue tasks.
 
-Credits
+Credits:
+This project objects were given by Hyperion and created by:
 Qusay Hameed - Developer
 
+Feel free to contribute to the project or report any issues on the GitHub repository.
 
