@@ -15,11 +15,9 @@ To run the Task Manager project locally, follow these steps:
 
 1. Clone the repository to your local machine.
 Example:
--   ```bash
+   Open your command prompt if you have a windows pc  
    git clone [https://github.com/qusayhameed/finalCapstone]
-      ```bash
    cd task-manager (Find the full directory in your PC)
-
 2. Ensure you have Python installed on your system.
 3. Open the entire project folder in VS Code or any preferred Python IDE.
 4. Run the `task_manager.py` file.
