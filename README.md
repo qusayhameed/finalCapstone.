@@ -17,7 +17,7 @@ To run the Task Manager project locally, follow these steps:
 Example:
 -   ```bash
    git clone [https://github.com/qusayhameed/finalCapstone]
-      bash
+      ```bash
    cd task-manager (Find the full directory in your PC)
 
 2. Ensure you have Python installed on your system.
