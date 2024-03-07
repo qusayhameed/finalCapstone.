@@ -31,6 +31,8 @@ Part of the functionalies in the code:
 Register a new user (r) or add a new task (a) from the main menu.
 View all tasks (va) or view tasks assigned to the current user (vm).
 Generate reports (gr) to get insights into task and (ds) to show users and tasks statistics.
+![3](https://github.com/qusayhameed/finalCapstone./assets/153082978/871a2baf-7236-4309-8120-6bbcbf9979c9)
+
 
 Registration (r):
 To register a new user, select 'r' from the main menu.
@@ -40,6 +42,7 @@ Avoid duplicate usernames, and handle errors gracefully.
 
 Adding a Task (a):
 To add a new task, select 'a' from the main menu.
+
 
 Viewing All Tasks (va):
 To view all tasks, select 'va' from the main menu.
