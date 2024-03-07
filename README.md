@@ -36,6 +36,8 @@ Registration (r):
 To register a new user, select 'r' from the main menu.
 Avoid duplicate usernames, and handle errors gracefully.
 
+![4](https://github.com/qusayhameed/finalCapstone./assets/153082978/fd15e722-044f-4a4e-83f1-32ecfb21cf1f)
+
 Adding a Task (a):
 To add a new task, select 'a' from the main menu.
 
