@@ -4,7 +4,7 @@
 This project, Task Manager, is a command-line-based task management application developed in Python. The application allows administrators and limitted options, to register new users, add tasks, view all tasks, and view tasks assigned to a specific user. The project focuses on code refactoring using the principle of abstraction and introduces additional features like task editing, marking tasks as complete, and generating reports.
 
 
-## Table of Contents
+## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Reports](#reports)
