@@ -111,7 +111,7 @@ Percentages of total, completed, incomplete, and overdue tasks.
 
 
 
-Credits:                                                                                                                                                                      
+## Credits:                                                                                                                                                                      
 This project objects were given by HyperionDev, CoGrammar https://github.com/skills-cogrammar.                                                                       
 Created by:                                                                                                                                                                  
 Qusay Hameed - Developer     
