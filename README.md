@@ -19,17 +19,17 @@ To run the Task Manager project locally, follow these steps:
    cd task-manager (Find the full directory in your PC)                                                                                                            
 2. Verify Cloning:
 
-Once the cloning process is complete, you should see a new folder in your destination folder with the repository name.
-Here's an example using a hypothetical repository:
+   Once the cloning process is complete, you should see a new folder in your destination folder with the repository name.
+   Here's an example using a hypothetical repository:
 
-cd path/to/destination/folder                                                                                                                                                 
+   cd path/to/destination/folder                                                                                                                                                 
 3. Also Ensure you have Python installed on your system.
 
 4. Open the entire project folder in VS Code or any preferred Python IDE.
    
 6. Run the `task_manager.py` file.
 
-Usage:
+## Usage:
 After running the application, follow the on-screen instructions to navigate through the menu and perform various tasks.
 If you are an admin user, you will have additional options such as generating reports 
 and displaying statistics. For non-admin users, certain admin-only functionalities will not be available.
@@ -45,7 +45,7 @@ Generate reports (gr) to get insights into task and (ds) to show users and tasks
 ![3](https://github.com/qusayhameed/finalCapstone./assets/153082978/871a2baf-7236-4309-8120-6bbcbf9979c9)
 
 
-Registration (r):
+Registration (r):                                                                                                                                                           
 To register a new user, select 'r' from the main menu.
 Avoid duplicate usernames, and handle errors gracefully.
 
@@ -61,25 +61,36 @@ To view all tasks, select 'va' from the main menu.
 
 
 Viewing My Tasks (vm):
+
 To view tasks assigned to the current user, select 'vm' from the main menu.
+
 Tasks are displayed with corresponding numbers for identification.
+
 Choose a specific task by entering its number.
+
 Enter '-1' to return to the main menu.
+
 For a selected task:
+
 Mark it as complete.
+
 Edit the assigned user or due date (if the task is incomplete).
 
 ![8](https://github.com/qusayhameed/finalCapstone./assets/153082978/a87f6cc2-d5f4-4e40-9994-0e669d7a5a5a)
 
 
 Reports:
+
 To generate reports, choose 'gr' from the main menu.
+
 Two text files, task_overview.txt and user_overview.txt, will be generated.
 
 ![6](https://github.com/qusayhameed/finalCapstone./assets/153082978/37c36efe-6a11-4663-bd2f-b52bd9a7792f)
 
 Statistics:
+
 To generate reports, choose 'Ds' from the main menu.
+
 A sttstics will be shown from Two text files, task_overview.txt and user_overview.txt
 
 ![9](https://github.com/qusayhameed/finalCapstone./assets/153082978/0579aaf0-e622-4a2e-96ea-d75bddc04232)
@@ -100,9 +111,10 @@ Percentages of total, completed, incomplete, and overdue tasks.
 
 
 
-Credits:
+Credits:                                                                                                                                                                      
 This project objects were given by HyperionDev, CoGrammar https://github.com/skills-cogrammar.                                                                       
-Created by:
-Qusay Hameed - Developer                                                                                                                                                         
+Created by:                                                                                                                                                                  
+Qusay Hameed - Developer     
+
 Feel free to contribute to the project or report any issues on the GitHub repository.
 
