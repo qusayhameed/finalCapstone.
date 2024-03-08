@@ -13,14 +13,21 @@ This project, Task Manager, is a command-line-based task management application 
 ## Installation
 To run the Task Manager project locally, follow these steps:
 
-1. Clone the repository to your local machine.
-Example:
-   Open your command prompt if you have a windows pc  
-   git clone [https://github.com/qusayhameed/finalCapstone]
-   cd task-manager (Find the full directory in your PC)
-2. Ensure you have Python installed on your system.
-3. Open the entire project folder in VS Code or any preferred Python IDE.
-4. Run the `task_manager.py` file.
+1. Clone the repository to your local machine:                                                                                                                         
+   Open your command prompt if you have a windows PC                                                                                                                           
+   Type git clone [https://github.com/qusayhameed/finalCapstone]                                                                                                            
+   cd task-manager (Find the full directory in your PC)                                                                                                            
+2. Verify Cloning:
+
+Once the cloning process is complete, you should see a new folder in your destination folder with the repository name.
+Here's an example using a hypothetical repository:
+
+cd path/to/destination/folder                                                                                                                                                 
+3. Also Ensure you have Python installed on your system.
+
+4. Open the entire project folder in VS Code or any preferred Python IDE.
+   
+6. Run the `task_manager.py` file.
 
 Usage:
 After running the application, follow the on-screen instructions to navigate through the menu and perform various tasks.
