@@ -14,20 +14,21 @@ This project, Task Manager, is a command-line-based task management application 
 To run the Task Manager project locally, follow these steps:
 
 1. Clone the repository to your local machine:                                                                                                                         
-   Open your command prompt if you have a windows PC                                                                                                                           
-   Type git clone [https://github.com/qusayhameed/finalCapstone]                                                                                                            
-   cd task-manager (Find the full directory in your PC)                                                                                                            
-2. Verify Cloning:
+   Open VS Code on your PC                                                                                                                          
+   On VS Code Terminal type git clone [https://github.com/qusayhameed/finalCapstone]
+                                                                                                              
+3. Verify Cloning:
 
    Once the cloning process is complete, you should see a new folder in your destination folder with the repository name.
-   Here's an example using a hypothetical repository:
+                                                                                                                                                 
+4. Also Ensure you have Python installed on your system.
 
-   cd path/to/destination/folder                                                                                                                                                 
-3. Also Ensure you have Python installed on your system.
-
-4. Open the entire project folder in VS Code or any preferred Python IDE.
+5. Open the entire project folder in VS Code or any preferred Python IDE to make it your root folder in your PC.
+   Follow these steps in VS Code:
+   File-Open Folder-Final_Capston
+6. Make sure all the files are there in the same task folder
    
-6. Run the `task_manager.py` file.
+7. Run the `task_manager.py` file.
 
 ## Usage:
 After running the application, follow the on-screen instructions to navigate through the menu and perform various tasks.
